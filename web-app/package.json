@@ -12,7 +12,7 @@
     "local-storage-fallback": "^4.1.2",
     "lodash": "^4.17.21",
     "luxon": "^3.4.4",
-    "@minio/mds": "latest",
+    "mds": "https://codeload.github.com/bexsoft/mds/tar.gz/6cf83a396d1886b55416e03f8ecf6fdb27732d4f",
     "react": "^18.3.1",
     "react-component-export-image": "^1.0.6",
     "react-copy-to-clipboard": "^5.1.0",
